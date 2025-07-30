@@ -10,6 +10,6 @@ Amante de código limpo, boas práticas e café ☕
 
 ## 📈 Estatísticas
 
-![Gabryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelDSous-dev&show_icons=true&theme=radical)
+![Gabryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelDSous&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelDSous-dev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelDSous&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
