@@ -1,6 +1,6 @@
 ## 👋 Fala dev! Eu sou o Gabryel
 
-Sou um apaixonado por backend, arquitetura de software e boas práticas. Atualmente focado em Java com Spring Boot e metendo o bedelho no frontend também 😄
+Sou um apaixonado por backend, arquitetura de software e boas práticas. Atualmente focado em Java com Spring Boot e frontend também 😄
 
 ![banner](images/banner.png)
 
