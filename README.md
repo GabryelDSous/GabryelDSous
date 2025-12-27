@@ -17,14 +17,6 @@ Sou um apaixonado por backend, arquitetura de software e boas práticas. Atualme
 
 ---
 
-## 📈 Estatísticas
-
-![Gabryel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabryelDSous&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabryelDSous&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
----
-
 ## 🏆 Conquistas
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=GabryelDSous&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
