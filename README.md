@@ -17,12 +17,6 @@ Sou um apaixonado por backend, arquitetura de software e boas práticas. Atualme
 
 ---
 
-## 🏆 Conquistas
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=GabryelDSous&theme=radical&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🌍 Contato
 
 [![LinkedIn](https://img.shields.io/badge/-GabryelDSous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabryel-deusino-sousa-freitas-750b05346)
