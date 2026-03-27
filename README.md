@@ -17,5 +17,5 @@ Sou apenas um dev que gosta de Java
 
 ## 🌍 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-GabryelDSous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabryel-deusino-sousa-freitas-750b05346)
+[![LinkedIn](https://img.shields.io/badge/-GabryelDSous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabryel-deusino-dev)
 [![Email](https://img.shields.io/badge/-gabryel@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdeusinosousafreitas@email.com)
