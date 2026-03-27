@@ -1,8 +1,6 @@
 ## 👋 Fala dev! Eu sou o Gabryel
 
-Sou um apaixonado por backend, arquitetura de software e boas práticas. Atualmente focado em Java com Spring Boot e frontend também 😄
-
-![banner](images/banner.png)
+Sou apenas um dev que gosta de Java
 
 ---
 ![Visitas no perfil](https://komarev.com/ghpvc/?username=GabryelDSous&color=blue&style=flat)
