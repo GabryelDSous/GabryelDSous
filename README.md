@@ -1,21 +1,38 @@
-## 👋 Fala dev! Eu sou o Gabryel
+# 👋 Fala Dev! Eu sou o Gabryel
 
-Sou apenas um dev que gosta de Java
+💻 **Desenvolvedor Java Junior** focado em Backend.
+
+Atualmente estudando e construindo projetos com **Java, Spring Boot e APIs REST**, buscando evoluir em arquitetura, segurança e boas práticas de desenvolvimento.
+
+🚀 Meu foco atual:
+- Desenvolvimento de APIs REST
+- Spring Boot e Spring Security
+- Banco de dados SQL
+- Estruturas de dados e algoritmos
+- Boas práticas de código
 
 ---
-![Visitas no perfil](https://komarev.com/ghpvc/?username=GabryelDSous&color=blue&style=flat)
-## 🛠️ Tech Stack
 
+![Visitas no perfil](https://komarev.com/ghpvc/?username=GabryelDSous&color=blue&style=flat)
+
+---
+
+# 🛠️ Tech Stack
+
+### Backend
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+
+### Banco de Dados
 ![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
 
-## 🌍 Contato
+# 🌍 Contato
 
-[![LinkedIn](https://img.shields.io/badge/-GabryelDSous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/gabryel-deusino-dev)
-[![Email](https://img.shields.io/badge/-gabryel@email.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdeusinosousafreitas@email.com)
+[![LinkedIn](https://img.shields.io/badge/-GabryelDSous-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabryel-deusino-dev)
+
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gdeusinosousafreitas@email.com)
