@@ -13,10 +13,6 @@ Atualmente estudando e construindo projetos com **Java, Spring Boot e APIs REST*
 
 ---
 
-![Visitas no perfil](https://komarev.com/ghpvc/?username=GabryelDSous&color=blue&style=flat)
-
----
-
 # 🛠️ Tech Stack
 
 ### Backend
