@@ -104,16 +104,6 @@ API REST para autenticação e autorização utilizando JWT e Spring Security.
 
 ---
 
-# 📈 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=GabryelDSous&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gabryel%20Deusino-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gabryel-deusino-dev)
