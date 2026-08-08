@@ -42,11 +42,6 @@ Atualmente estudando **Spring AI**, **LLMs**, **Clean Architecture** e **Arquite
 🎯 Buscando minha primeira oportunidade como Desenvolvedor Backend Java.
 
 ---
-# 🤓 Atualmente estudando
-- React
-- Docker
-
----
 
 # 🌟 Projetos em Destaque
 
@@ -64,6 +59,24 @@ Sistema de chat utilizando **Spring AI** com persistência de memória, múltipl
 - Clean Architecture
 
 ➡️ https://github.com/GabryelDSous/ChatPersona
+
+---
+
+## 🔐 E-Commerce
+
+API REST para gerenciamento de uma plataforma de e-commerce, desenvolvida com Java 21 e Spring Boot.
+
+**Tecnologias**
+
+- Java
+- Spring Boot
+- Spring Security
+- Spring Data JPA
+- PostgreSQL
+- Maven
+- Flyway
+
+➡️ https://github.com/GabryelDSous/E-Commerce
 
 ---
 
@@ -93,6 +106,8 @@ API REST para autenticação e autorização utilizando JWT e Spring Security.
 - Design Patterns
 - Estruturas de Dados
 - Algoritmos
+- React
+- Docker
 
 ---
 
