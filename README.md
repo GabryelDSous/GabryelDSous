@@ -11,6 +11,19 @@ Atualmente estudando **Spring AI**, **LLMs**, **Clean Architecture** e **Arquite
 </div>
 
 ---
+# 🛠 Tech Stack
+- Java
+- Spring Boot
+- Spring Security
+- Spring AI
+- PostgreSQL
+- HTML & CSS
+- JavaScript
+- Git & GitHub
+- Maven
+- APIs REST
+
+---
 
 # 🚀 Sobre mim
 
@@ -32,28 +45,6 @@ Atualmente estudando **Spring AI**, **LLMs**, **Clean Architecture** e **Arquite
 # 🤓 Atualmente estudando
 - React
 - Docker
-
-# 🛠 Tech Stack
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge)
-![Spring AI](https://img.shields.io/badge/Spring_AI-6DB33F?style=for-the-badge)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-
-## 🗄 Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white)
-
-## ⚙ Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 
 ---
 
