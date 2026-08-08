@@ -29,10 +29,11 @@ Atualmente estudando **Spring AI**, **LLMs**, **Clean Architecture** e **Arquite
 🎯 Buscando minha primeira oportunidade como Desenvolvedor Backend Java.
 
 ---
+# 🤓 Atualmente estudando
+- React
+- Docker
 
 # 🛠 Tech Stack
-
-## ☕
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
